@@ -1,4 +1,4 @@
-# SharedPreferenceDemo
+# SharedPreferenceAndFileDemo
 It is an Android App Demo by using SharedPreferences, Intent, and File
 
 ## Feature
@@ -10,4 +10,3 @@ It is an Android App Demo by using SharedPreferences, Intent, and File
 ## References
 - https://developer.android.com/reference/android/content/SharedPreferences
 - https://developer.android.com/reference/android/content/Intent
-- # SharedPreferenceAndFileDemo
